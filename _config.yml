@@ -1,6 +1,10 @@
 #config vars
 title: Smith & Toohey
 description: Description
+header_pages:
+  - about.md
+  - portfolio.md
+  - contact.md
 
 #compiler vars
 markdown: kramdown
