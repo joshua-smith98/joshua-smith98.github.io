@@ -4,4 +4,4 @@ description: Description
 
 #compiler vars
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
