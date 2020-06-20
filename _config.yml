@@ -1,9 +1,6 @@
 #config vars
 title: Smith & Toohey Productions
 description: Description
-header_pages:
-  - portfolio.md
-  - contact.md
 
 #compiler vars
 markdown: kramdown
