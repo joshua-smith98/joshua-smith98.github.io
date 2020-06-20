@@ -1,3 +1,7 @@
-name: Smith & Toohey
+#config vars
+title: Smith & Toohey
+description: Description
+
+#compiler vars
 markdown: kramdown
 theme: jekyll-theme-minimal
