@@ -1,7 +1,7 @@
 #config vars
 title: null
 description: Description
-logo: STP logo v alpha 3 trans_inverted.png
+logo: STP_trans-inv-cropped-small.png
 
 #compiler vars
 theme: jekyll-theme-minimal
