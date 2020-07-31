@@ -3,5 +3,4 @@ title: Smith & Toohey Productions
 description: Description
 
 #compiler vars
-markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
