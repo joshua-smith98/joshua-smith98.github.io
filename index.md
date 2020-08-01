@@ -20,7 +20,7 @@ Mauris vestibulum aliquam tempus. Aenean dignissim, lacus ac lacinia iaculis, la
 
 Nunc ullamcorper elit ac elit tincidunt, nec faucibus velit suscipit. Aliquam porta dolor nec dui congue pulvinar. Nam tempor mi eget viverra egestas. Vestibulum tincidunt ex quis mauris condimentum feugiat ac ullamcorper enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi maximus vehicula augue. Phasellus luctus augue eros, a sagittis dolor aliquam vitae. Mauris vestibulum neque dui. Vestibulum quis sodales ante. In sed libero tristique massa molestie fermentum. Nulla sodales dui ex, convallis fermentum turpis rutrum eget. Nam dictum, mauris nec elementum venenatis, leo est sodales justo, et pharetra tortor nibh in ante.
 
-[!Image Test](STP_trans-inv-cropped-small.png)
+![Image Test](STP_trans-inv-cropped-small.png)
 
 Mauris malesuada mollis lectus, ac pretium urna malesuada nec. Curabitur aliquet turpis id nunc viverra mattis. In semper placerat nisi. Maecenas tempus sem vitae laoreet volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Fusce urna eros, feugiat id nisi sed, gravida congue ante. Mauris ullamcorper dictum dui. Maecenas nec sem ut neque eleifend vestibulum in ut neque. Praesent vel venenatis nisl.
 
