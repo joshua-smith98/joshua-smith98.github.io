@@ -1,7 +1,7 @@
 #config vars
 title: Smith & Toohey Productions
 description: Description
-logo: STP-V1_cropped_small.png
+logo: STP-V1_cropped-small.png
 
 #compiler vars
 theme: jekyll-theme-minimal
